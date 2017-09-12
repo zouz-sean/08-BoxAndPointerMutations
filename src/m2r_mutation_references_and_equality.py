@@ -7,14 +7,14 @@ This module demonstrates:
  5. Two equality operators:   is   ==
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.  September 2016.
+         their colleagues and PUT_YOUR_NAME_HERE.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import rosegraphics as rg
 
 ########################################################################
 # Students:  You will not write any code in this module,
-#            but there ARE things TODO below.
+#            but there ARE things TO DO below.
 ########################################################################
 
 # ----------------------------------------------------------------------
@@ -36,7 +36,7 @@ import rosegraphics as rg
 #
 #    Step b5:  When you believe that you understand ** ALL ** the code
 #                in this module, ** ASKING QUESTIONS AS NEEDED, **
-#                change the above TODO to DONE.
+#                change the above TO DO to DONE.
 # ----------------------------------------------------------------------
 
 
@@ -171,6 +171,7 @@ def main():
     print()
     print('T or F: (2 * "hello") is (2 * "hello"?', x is y)
     print('T or F: (2 * "hello") == (2 * "hello"?', x == y)
+
 
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
