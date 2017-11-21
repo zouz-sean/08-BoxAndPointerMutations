@@ -18,10 +18,10 @@ import rosegraphics as rg
 
 def main():
     """ Calls the   TEST   functions in this module. """
-    test_swap_colors()
+    run_test_swap_colors()
 
 
-def test_swap_colors():
+def run_test_swap_colors():
     """ Tests the   swap_colors   function. """
     print()
     print('--------------------------------------------------')
