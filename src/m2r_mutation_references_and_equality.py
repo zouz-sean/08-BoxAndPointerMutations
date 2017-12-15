@@ -152,26 +152,6 @@ def main():
     print('T or F: point3 == point4?', point3 == point4)
     print('T or F: point4 == point5?', point4 == point5)
 
-    print()
-    print('Finally, a tricky one that your instruction will explain:')
-    x = 'hello'
-    y = 'hello'
-    print()
-    print('T or F: "hello" is "hello"?', x is y)
-    print('T or F: "hello" == "hello"?', x == y)
-
-    x = 1 * x
-    y = 1 * y
-    print()
-    print('T or F: (1 * "hello") is (1 * "hello"?', x is y)
-    print('T or F: (1 * "hello") == (1 * "hello"?', x == y)
-
-    x = 2 * x
-    y = 2 * y
-    print()
-    print('T or F: (2 * "hello") is (2 * "hello"?', x is y)
-    print('T or F: (2 * "hello") == (2 * "hello"?', x == y)
-
 
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.

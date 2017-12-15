@@ -17,8 +17,8 @@ import rosegraphics as rg
 
 def main():
     """ Runs several examples. """
-#     example1()
-#     example2()
+    # example1()
+    # example2()
 
 
 # ----------------------------------------------------------------------
